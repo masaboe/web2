@@ -1,0 +1,13 @@
+Rangkaian Perintah Git
+
+- git  config --global user.name "nama user"
+- git config --global user.email "alamat email"
+- git init
+- git clone https://github.com/masaboe/HelloWorld
+- git add <namafile>
+- git add <folder>/\*.*
+- git status
+- git status -s
+- git commit -m "catatan commit"
+- git checkout -b readMe
+- git push origin readMe
